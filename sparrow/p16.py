@@ -1,0 +1,10 @@
+#LIST
+l=[10,20,30,40,'juhi',3.5,'true']
+print(type(l))
+print(l)
+print(l[0])
+print(l[1])
+print(l[2])
+print(l[3])
+x=list('softpro')
+print(x)
